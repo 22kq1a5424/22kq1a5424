@@ -1,16 +1,14 @@
-## Hi there 👋
+**Hi, I'm JAYALAKSHMI PATHI**
 
-<!--
-**22kq1a5424/22kq1a5424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
+Hey there! I'm JayaLakshmi, a third-year Computer Science(Artificial Intelligence & Data Science) Student at PACE Institute of Technology and Sciences with a passion for coding and crafting innovative solutions.
+🚀 Third-year CS student turning ideas into interactive, intelligent, and impactful code.
 
-Here are some ideas to get you started:
+💻 Writing code that connects logic with creativity — still learning, always building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 On a constant quest to debug not just programs, but also how technology shapes our world.
+
+🌱 Growing with every line of code — from passion projects to real-world problem-solving.
+
+🧠 Mixing algorithms, design, and curiosity to create tech that resonates.
+Let's Dive in!
