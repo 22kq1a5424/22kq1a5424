@@ -1,7 +1,9 @@
 **Hi, I'm JAYALAKSHMI PATHI**
 
 **About Me**
+
 Hey there! I'm JayaLakshmi, a third-year Computer Science(Artificial Intelligence & Data Science) Student at PACE Institute of Technology and Sciences with a passion for coding and crafting innovative solutions.
+
 🚀 Third-year CS student turning ideas into interactive, intelligent, and impactful code.
 
 💻 Writing code that connects logic with creativity — still learning, always building.
