@@ -18,7 +18,7 @@
 
 ## 🔗 Let's Connect
 
-- 🌐 **Portfolio** → [jayalakshmipathi.netlify.app](https://22kq1a5424.github.io/Personal-Portfolio/)
+- 🌐 **Portfolio** → [jayalakshmipathi.github.app](https://22kq1a5424.github.io/Personal-Portfolio/)
 - 💼 **LinkedIn** → [linkedin.com/in/jayalakshmi-pathi](https://www.linkedin.com/in/jayalakshmi-pathi-317005301/)
 - 🎯 **HackerRank** → [hackerrank.com/jayalakshmi](https://www.hackerrank.com/profile/jayalakshmipath1)
 - 📺 **YouTube Channel** → [youtube.com/@jayalakshmi-tech](https://www.youtube.com/@JayalakshmiPathi)
