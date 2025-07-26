@@ -9,7 +9,7 @@
 🎓 Final Year B.Tech Student in **Artificial Intelligence & Data Science** at *PACE Institute of Technology & Sciences*  
 📊 CGPA: **9.17** — Consistent Academic Performer with a Passion for Smart Tech  
 💡 I build elegant Frontend UIs, explore the depths of Machine Learning, and turn concepts into real-world solutions  
-💻 Always learning, always building — from clean design to clean code  
+🚀 Smart thinking meets efficient coding — that’s how I turn ideas into impact.
 ⚙️ Currently diving deeper into Full Stack Development, ML Projects & solving real-world use cases  
 
 
