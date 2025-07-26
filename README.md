@@ -64,8 +64,6 @@
 
 ## 🚀 Project Highlights: Code That Speaks
 
-From UI clones to game zones — every line of code tells a story.  
-Here are a few creations I'm proud to call my own:
 
 🌐 **APSSDC UI Replica**  
 Crafted a pixel-perfect clone of the APSSDC website using HTML, CSS, and JS with a strong focus on responsive design and layout precision.
