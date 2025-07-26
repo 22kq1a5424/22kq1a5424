@@ -9,7 +9,6 @@
 🎓 Final Year B.Tech Student in **Artificial Intelligence & Data Science** at *PACE Institute of Technology & Sciences*  
 📊 CGPA: **9.17** — Consistent Academic Performer with a Passion for Smart Tech  
 💡 I build elegant Frontend UIs, explore the depths of Machine Learning, and turn concepts into real-world solutions  
-🏆 Certified by **Infosys**, **GUVI**, **NPTEL**, and **EdX** for mastering tech that matters  
 💻 Always learning, always building — from clean design to clean code  
 ⚙️ Currently diving deeper into Full Stack Development, ML Projects & solving real-world use cases  
 
@@ -62,3 +61,25 @@
 </div>
 
 ---
+🌐 **APSSDC UI Replica**  
+Crafted a pixel-perfect clone of the APSSDC website using HTML, CSS, and JS with a strong focus on responsive design and layout precision.
+
+✈️ **PJAirLines-Flight Booking Platform**  
+A Spring Boot-powered backend with MySQL for booking, managing, and confirming flight tickets via an intuitive web interface.
+
+👤 **Developer Portfolio**  
+An animated, section-wise portfolio deployed on Netlify showcasing skills, certifications, and hosted projects in a sleek layout.
+
+🎮 **Mini Game Collection**  
+Built engaging arcade-style games like Snake, Pong, and Space Invaders using Python and Pygame — fun meets logic!
+
+
+---
+
+## 🏆 Highlights of My Journey
+
+🥈 Secured **2nd place** in the 42Learn National Hackathon for building real-time tech solutions.  
+🎓 Awarded the prestigious **ONGC Scholarship** for academic excellence.  
+♟️ Won **1st Prize** in an intercollegiate **Chess Championship** demonstrating strategic thinking.
+🏆 Certified by **Infosys**, **GUVI**, **NPTEL**, and **EdX** for mastering tech that matters.
+
