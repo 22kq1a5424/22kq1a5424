@@ -61,10 +61,16 @@
 </div>
 
 ---
+
+## 🚀 Project Highlights: Code That Speaks
+
+From UI clones to game zones — every line of code tells a story.  
+Here are a few creations I'm proud to call my own:
+
 🌐 **APSSDC UI Replica**  
 Crafted a pixel-perfect clone of the APSSDC website using HTML, CSS, and JS with a strong focus on responsive design and layout precision.
 
-✈️ **PJAirLines-Flight Booking Platform**  
+✈️ **PJAirLines - Flight Booking Platform**  
 A Spring Boot-powered backend with MySQL for booking, managing, and confirming flight tickets via an intuitive web interface.
 
 👤 **Developer Portfolio**  
@@ -72,7 +78,6 @@ An animated, section-wise portfolio deployed on Netlify showcasing skills, certi
 
 🎮 **Mini Game Collection**  
 Built engaging arcade-style games like Snake, Pong, and Space Invaders using Python and Pygame — fun meets logic!
-
 
 ---
 
